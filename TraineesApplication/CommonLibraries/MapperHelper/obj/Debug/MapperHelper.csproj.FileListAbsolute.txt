@@ -22,3 +22,15 @@ D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHel
 D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHe.D234CA60.Up2Date
 D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.dll
 D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.pdb
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\MapperHelper.dll
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\MapperHelper.pdb
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.dll
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\log4net.dll
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.pdb
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.xml
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\log4net.xml
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.csproj.AssemblyReference.cache
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.csproj.CoreCompileInputs.cache
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHe.D234CA60.Up2Date
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.dll
+C:\Users\IST\Documents\GitHub\ISTproject\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.pdb

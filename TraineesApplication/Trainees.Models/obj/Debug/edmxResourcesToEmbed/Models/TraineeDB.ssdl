@@ -23,7 +23,7 @@
     <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
     <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
   </EntityType>
-  <Association Name="FK_Survey_CreatedBy">
+  <Association Name="FK_CFMSurvey_CreatedByUser">
     <End Role="CFMUser" Type="Self.CFMUser" Multiplicity="1" />
     <End Role="CFMSurvey" Type="Self.CFMSurvey" Multiplicity="*" />
     <ReferentialConstraint>
@@ -35,7 +35,7 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <Association Name="FK_Survey_ModifiedBy">
+  <Association Name="FK_CFMSurvey_ModifiedByUser">
     <End Role="CFMUser" Type="Self.CFMUser" Multiplicity="0..1" />
     <End Role="CFMSurvey" Type="Self.CFMSurvey" Multiplicity="*" />
     <ReferentialConstraint>
@@ -50,11 +50,11 @@
   <EntityContainer Name="TraineeDB_DemoModelStoreContainer">
     <EntitySet Name="CFMSurvey" EntityType="Self.CFMSurvey" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="CFMUser" EntityType="Self.CFMUser" Schema="dbo" store:Type="Tables" />
-    <AssociationSet Name="FK_Survey_CreatedBy" Association="Self.FK_Survey_CreatedBy">
+    <AssociationSet Name="FK_CFMSurvey_CreatedByUser" Association="Self.FK_CFMSurvey_CreatedByUser">
       <End Role="CFMUser" EntitySet="CFMUser" />
       <End Role="CFMSurvey" EntitySet="CFMSurvey" />
     </AssociationSet>
-    <AssociationSet Name="FK_Survey_ModifiedBy" Association="Self.FK_Survey_ModifiedBy">
+    <AssociationSet Name="FK_CFMSurvey_ModifiedByUser" Association="Self.FK_CFMSurvey_ModifiedByUser">
       <End Role="CFMUser" EntitySet="CFMUser" />
       <End Role="CFMSurvey" EntitySet="CFMSurvey" />
     </AssociationSet>

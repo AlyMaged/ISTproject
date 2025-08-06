@@ -1,90 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Trainees\\TraineesApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|d:\\trainees\\traineesapplication\\mywebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:MyWebApi\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|c:\\users\\ist\\documents\\github\\istproject\\traineesapplication\\mywebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09D2645C-7254-4471-837E-3C733925ACE1}|CommonLibraries\\CommonLib\\CommonLib.csproj|d:\\trainees\\traineesapplication\\commonlibraries\\commonlib\\responses\\responsepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09D2645C-7254-4471-837E-3C733925ACE1}|CommonLibraries\\CommonLib\\CommonLib.csproj|solutionrelative:commonlibraries\\commonlib\\responses\\responsepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|c:\\users\\ist\\documents\\github\\istproject\\traineesapplication\\mywebapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|d:\\trainees\\traineesapplication\\mywebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\MapperConfigs\\MapperConfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:MyWebApi\\MapperConfigs\\MapperConfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|d:\\trainees\\traineesapplication\\trainees.models\\modelsdto\\cfmuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:trainees.models\\modelsdto\\cfmuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\App.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:Trainees.Models\\App.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|d:\\trainees\\traineesapplication\\commonlibraries\\mapperhelper\\maptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|solutionrelative:commonlibraries\\mapperhelper\\maptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\TraineeDB.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:Trainees.Models\\Models\\TraineeDB.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|d:\\trainees\\traineesapplication\\mywebapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\MapperConfigs\\Profiles\\TraineeDataProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:MyWebApi\\MapperConfigs\\Profiles\\TraineeDataProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|d:\\trainees\\traineesapplication\\commonlibraries\\mapperhelper\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|solutionrelative:commonlibraries\\mapperhelper\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\MapperHelper\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|solutionrelative:CommonLibraries\\MapperHelper\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|d:\\trainees\\traineesapplication\\mywebapi\\mapperconfigs\\mapperconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\mapperconfigs\\mapperconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\MapperHelper\\MapToHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|solutionrelative:CommonLibraries\\MapperHelper\\MapToHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|d:\\trainees\\traineesapplication\\mywebapi\\mapperconfigs\\profiles\\traineedataprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\mapperconfigs\\profiles\\traineedataprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\MapperHelper\\MapperConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|solutionrelative:CommonLibraries\\MapperHelper\\MapperConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|d:\\trainees\\traineesapplication\\trainees.models\\models\\cfmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:trainees.models\\models\\cfmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\ModelsDTO\\CFMUserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:Trainees.Models\\ModelsDTO\\CFMUserDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|d:\\trainees\\traineesapplication\\trainees.models\\models\\partial\\cfmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:trainees.models\\models\\partial\\cfmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\Partial\\CFMUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:Trainees.Models\\Models\\Partial\\CFMUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|d:\\trainees\\traineesapplication\\commonlibraries\\mapperhelper\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{478C920C-DACE-466B-B902-987015E07342}|CommonLibraries\\MapperHelper\\MapperHelper.csproj|solutionrelative:commonlibraries\\mapperhelper\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:MyWebApi\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|d:\\trainees\\traineesapplication\\trainees.models\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:trainees.models\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\App_Start\\WebApiConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:MyWebApi\\App_Start\\WebApiConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|d:\\trainees\\traineesapplication\\trainees.models\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:trainees.models\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{09D2645C-7254-4471-837E-3C733925ACE1}|CommonLibraries\\CommonLib\\CommonLib.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\CommonLib\\Responses\\ResponsePackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D2645C-7254-4471-837E-3C733925ACE1}|CommonLibraries\\CommonLib\\CommonLib.csproj|solutionrelative:CommonLibraries\\CommonLib\\Responses\\ResponsePackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|d:\\trainees\\traineesapplication\\mywebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\CFMUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:Trainees.Models\\Models\\CFMUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|d:\\trainees\\traineesapplication\\trainees.models\\models\\partial\\traineedb_demoentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:trainees.models\\models\\partial\\traineedb_demoentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB3AC8B5-C059-44D9-9A22-93C8E818147E}|CommonLibraries\\DBConnectionStringHelper\\DBConnectionStringHelper.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\DBConnectionStringHelper\\DbConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3AC8B5-C059-44D9-9A22-93C8E818147E}|CommonLibraries\\DBConnectionStringHelper\\DBConnectionStringHelper.csproj|solutionrelative:CommonLibraries\\DBConnectionStringHelper\\DbConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB3AC8B5-C059-44D9-9A22-93C8E818147E}|CommonLibraries\\DBConnectionStringHelper\\DBConnectionStringHelper.csproj|d:\\trainees\\traineesapplication\\commonlibraries\\dbconnectionstringhelper\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB3AC8B5-C059-44D9-9A22-93C8E818147E}|CommonLibraries\\DBConnectionStringHelper\\DBConnectionStringHelper.csproj|solutionrelative:commonlibraries\\dbconnectionstringhelper\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\Partial\\TraineeDB_DemoEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:Trainees.Models\\Models\\Partial\\TraineeDB_DemoEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|d:\\trainees\\traineesapplication\\mywebapi\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:mywebapi\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\UnitOfWork\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:Trainees.Models\\UnitOfWork\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|d:\\trainees\\traineesapplication\\trainees.models\\models\\traineedb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:trainees.models\\models\\traineedb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Test\\TestDbConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:Trainees.Models\\Test\\TestDbConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|d:\\trainees\\traineesapplication\\trainees.models\\test\\testdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:trainees.models\\test\\testdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\App_Start\\UnityConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3BDAB5-7A6A-4DB0-9F11-B45C7E907DAE}|MyWebApi\\MyWebApi.csproj|solutionrelative:MyWebApi\\App_Start\\UnityConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|d:\\trainees\\traineesapplication\\trainees.models\\models\\traineedb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:trainees.models\\models\\traineedb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\TraineeDB.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5637CEA-46E7-4F28-A544-F6A1386BE0B9}|Trainees.Models\\Trainees.Models.csproj|solutionrelative:Trainees.Models\\Models\\TraineeDB.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,21 +98,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResponsePackage.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\CommonLibraries\\CommonLib\\Responses\\ResponsePackage.cs",
-              "RelativeDocumentMoniker": "CommonLibraries\\CommonLib\\Responses\\ResponsePackage.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\CommonLibraries\\CommonLib\\Responses\\ResponsePackage.cs",
-              "RelativeToolTip": "CommonLibraries\\CommonLib\\Responses\\ResponsePackage.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwEQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:46:42.302Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
@@ -120,36 +111,61 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\MyWebApi\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\App_Start\\WebApiConfig.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\MyWebApi\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "MyWebApi\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:52:15.645Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebApi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "MyWebApi\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T07:58:05.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\MyWebApi\\Global.asax.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Global.asax.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\MyWebApi\\Global.asax.cs",
-              "RelativeToolTip": "MyWebApi\\Global.asax.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyWebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:44:14.457Z",
+              "WhenOpened": "2025-08-03T14:39:08.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\Web.config",
+              "RelativeDocumentMoniker": "MyWebApi\\Web.config",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\Web.config",
+              "RelativeToolTip": "MyWebApi\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-03T14:40:24.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\MapperHelper\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "CommonLibraries\\MapperHelper\\MapperConfig.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\MapperHelper\\MapperConfig.cs",
+              "RelativeToolTip": "CommonLibraries\\MapperHelper\\MapperConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:17:16.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MapperConfigure.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\MyWebApi\\MapperConfigs\\MapperConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\MapperConfigs\\MapperConfigure.cs",
               "RelativeDocumentMoniker": "MyWebApi\\MapperConfigs\\MapperConfigure.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\MyWebApi\\MapperConfigs\\MapperConfigure.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\MapperConfigs\\MapperConfigure.cs",
               "RelativeToolTip": "MyWebApi\\MapperConfigs\\MapperConfigure.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,102 +174,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TraineeDataProfile.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\MyWebApi\\MapperConfigs\\Profiles\\TraineeDataProfile.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\MapperConfigs\\Profiles\\TraineeDataProfile.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\MyWebApi\\MapperConfigs\\Profiles\\TraineeDataProfile.cs",
-              "RelativeToolTip": "MyWebApi\\MapperConfigs\\Profiles\\TraineeDataProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:38:09.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "packages.config",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\CommonLibraries\\MapperHelper\\packages.config",
-              "RelativeDocumentMoniker": "CommonLibraries\\MapperHelper\\packages.config",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\CommonLibraries\\MapperHelper\\packages.config",
-              "RelativeToolTip": "CommonLibraries\\MapperHelper\\packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-03T16:17:34.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MapToHelper.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\CommonLibraries\\MapperHelper\\MapToHelper.cs",
-              "RelativeDocumentMoniker": "CommonLibraries\\MapperHelper\\MapToHelper.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\CommonLibraries\\MapperHelper\\MapToHelper.cs",
-              "RelativeToolTip": "CommonLibraries\\MapperHelper\\MapToHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:04:11.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MapperConfig.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\CommonLibraries\\MapperHelper\\MapperConfig.cs",
-              "RelativeDocumentMoniker": "CommonLibraries\\MapperHelper\\MapperConfig.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\CommonLibraries\\MapperHelper\\MapperConfig.cs",
-              "RelativeToolTip": "CommonLibraries\\MapperHelper\\MapperConfig.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:17:16.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CFMUserDTO.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\ModelsDTO\\CFMUserDTO.cs",
-              "RelativeDocumentMoniker": "Trainees.Models\\ModelsDTO\\CFMUserDTO.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\ModelsDTO\\CFMUserDTO.cs",
-              "RelativeToolTip": "Trainees.Models\\ModelsDTO\\CFMUserDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T15:59:26.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CFMUser.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Models\\Partial\\CFMUser.cs",
-              "RelativeDocumentMoniker": "Trainees.Models\\Models\\Partial\\CFMUser.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Models\\Partial\\CFMUser.cs",
-              "RelativeToolTip": "Trainees.Models\\Models\\Partial\\CFMUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T15:53:14.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CFMUser.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Models\\CFMUser.cs",
-              "RelativeDocumentMoniker": "Trainees.Models\\Models\\CFMUser.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Models\\CFMUser.cs",
-              "RelativeToolTip": "Trainees.Models\\Models\\CFMUser.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAArwA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T15:53:10.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 5,
               "Title": "TraineeDB.edmx [Diagram1]",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Models\\TraineeDB.edmx",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\TraineeDB.edmx",
               "RelativeDocumentMoniker": "Trainees.Models\\Models\\TraineeDB.edmx",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Models\\TraineeDB.edmx [Diagram1]",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\TraineeDB.edmx [Diagram1]",
               "RelativeToolTip": "Trainees.Models\\Models\\TraineeDB.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2025-08-03T15:32:57.96Z",
@@ -261,120 +186,196 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DbConnection.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\CommonLibraries\\DBConnectionStringHelper\\DbConnection.cs",
-              "RelativeDocumentMoniker": "CommonLibraries\\DBConnectionStringHelper\\DbConnection.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\CommonLibraries\\DBConnectionStringHelper\\DbConnection.cs",
-              "RelativeToolTip": "CommonLibraries\\DBConnectionStringHelper\\DbConnection.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAADgv0kAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T15:29:08.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TraineeDB_DemoEntities.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Models\\Partial\\TraineeDB_DemoEntities.cs",
-              "RelativeDocumentMoniker": "Trainees.Models\\Models\\Partial\\TraineeDB_DemoEntities.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Models\\Partial\\TraineeDB_DemoEntities.cs",
-              "RelativeToolTip": "Trainees.Models\\Models\\Partial\\TraineeDB_DemoEntities.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T14:45:03.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\MyWebApi\\Web.config",
-              "RelativeDocumentMoniker": "MyWebApi\\Web.config",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\MyWebApi\\Web.config",
-              "RelativeToolTip": "MyWebApi\\Web.config",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-03T14:40:24.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "App.Config",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\App.Config",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\App.Config",
               "RelativeDocumentMoniker": "Trainees.Models\\App.Config",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\App.Config",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\App.Config",
               "RelativeToolTip": "Trainees.Models\\App.Config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAQAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-08-03T14:40:18.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\MyWebApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "MyWebApi\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\MyWebApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "MyWebApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAwwC8AAAA/AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "CFMUser.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\Partial\\CFMUser.cs",
+              "RelativeDocumentMoniker": "Trainees.Models\\Models\\Partial\\CFMUser.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\Partial\\CFMUser.cs",
+              "RelativeToolTip": "Trainees.Models\\Models\\Partial\\CFMUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T14:39:08.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T15:53:14.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CFMUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\ModelsDTO\\CFMUserDTO.cs",
+              "RelativeDocumentMoniker": "Trainees.Models\\ModelsDTO\\CFMUserDTO.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\ModelsDTO\\CFMUserDTO.cs",
+              "RelativeToolTip": "Trainees.Models\\ModelsDTO\\CFMUserDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:59:26.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapToHelper.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\MapperHelper\\MapToHelper.cs",
+              "RelativeDocumentMoniker": "CommonLibraries\\MapperHelper\\MapToHelper.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\MapperHelper\\MapToHelper.cs",
+              "RelativeToolTip": "CommonLibraries\\MapperHelper\\MapToHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:04:11.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\MapperHelper\\packages.config",
+              "RelativeDocumentMoniker": "CommonLibraries\\MapperHelper\\packages.config",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\MapperHelper\\packages.config",
+              "RelativeToolTip": "CommonLibraries\\MapperHelper\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-03T16:17:34.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TraineeDataProfile.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\MapperConfigs\\Profiles\\TraineeDataProfile.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\MapperConfigs\\Profiles\\TraineeDataProfile.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\MapperConfigs\\Profiles\\TraineeDataProfile.cs",
+              "RelativeToolTip": "MyWebApi\\MapperConfigs\\Profiles\\TraineeDataProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:38:09.346Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\Global.asax.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\Global.asax.cs",
+              "RelativeToolTip": "MyWebApi\\Global.asax.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:44:14.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "MyWebApi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "MyWebApi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:52:15.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponsePackage.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\CommonLib\\Responses\\ResponsePackage.cs",
+              "RelativeDocumentMoniker": "CommonLibraries\\CommonLib\\Responses\\ResponsePackage.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\CommonLib\\Responses\\ResponsePackage.cs",
+              "RelativeToolTip": "CommonLibraries\\CommonLib\\Responses\\ResponsePackage.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:46:42.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CFMUser.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\CFMUser.cs",
+              "RelativeDocumentMoniker": "Trainees.Models\\Models\\CFMUser.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\CFMUser.cs",
+              "RelativeToolTip": "Trainees.Models\\Models\\CFMUser.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:53:10.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\DBConnectionStringHelper\\DbConnection.cs",
+              "RelativeDocumentMoniker": "CommonLibraries\\DBConnectionStringHelper\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\CommonLibraries\\DBConnectionStringHelper\\DbConnection.cs",
+              "RelativeToolTip": "CommonLibraries\\DBConnectionStringHelper\\DbConnection.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADgv0kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:29:08.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TraineeDB_DemoEntities.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\Partial\\TraineeDB_DemoEntities.cs",
+              "RelativeDocumentMoniker": "Trainees.Models\\Models\\Partial\\TraineeDB_DemoEntities.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\Partial\\TraineeDB_DemoEntities.cs",
+              "RelativeToolTip": "Trainees.Models\\Models\\Partial\\TraineeDB_DemoEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:45:03.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\UnitOfWork\\UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Trainees.Models\\UnitOfWork\\UnitOfWork.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\UnitOfWork\\UnitOfWork.cs",
               "RelativeToolTip": "Trainees.Models\\UnitOfWork\\UnitOfWork.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T14:39:08.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T14:39:08.534Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "TestDbConnection.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Test\\TestDbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Test\\TestDbConnection.cs",
               "RelativeDocumentMoniker": "Trainees.Models\\Test\\TestDbConnection.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Test\\TestDbConnection.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Test\\TestDbConnection.cs",
               "RelativeToolTip": "Trainees.Models\\Test\\TestDbConnection.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwAwAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T14:38:37.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T14:38:37.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "UnityConfig.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\MyWebApi\\App_Start\\UnityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\App_Start\\UnityConfig.cs",
               "RelativeDocumentMoniker": "MyWebApi\\App_Start\\UnityConfig.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\MyWebApi\\App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\MyWebApi\\App_Start\\UnityConfig.cs",
               "RelativeToolTip": "MyWebApi\\App_Start\\UnityConfig.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAASwBIAAACgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T14:35:47.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T14:35:47.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "TraineeDB.Context.cs",
-              "DocumentMoniker": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Models\\TraineeDB.Context.cs",
+              "DocumentMoniker": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\TraineeDB.Context.cs",
               "RelativeDocumentMoniker": "Trainees.Models\\Models\\TraineeDB.Context.cs",
-              "ToolTip": "D:\\Trainees\\TraineesApplication\\Trainees.Models\\Models\\TraineeDB.Context.cs",
+              "ToolTip": "C:\\Users\\IST\\Documents\\GitHub\\ISTproject\\TraineesApplication\\Trainees.Models\\Models\\TraineeDB.Context.cs",
               "RelativeToolTip": "Trainees.Models\\Models\\TraineeDB.Context.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAADgvxIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T14:35:29.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T14:35:29.587Z"
             }
           ]
         }
