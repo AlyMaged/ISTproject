@@ -1,0 +1,48 @@
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\bin\Debug\MapperHelper.dll
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\bin\Debug\MapperHelper.pdb
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.dll
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\bin\Debug\log4net.dll
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.pdb
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.xml
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\bin\Debug\log4net.xml
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.csproj.AssemblyReference.cache
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.csproj.CoreCompileInputs.cache
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\obj\Debug\MapperHe.D234CA60.Up2Date
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.dll
+D:\HiveCFMRJB.Main\HiveCFM-Dev-ReleaseV2.0\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.pdb
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\MapperHelper.dll
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\MapperHelper.pdb
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.dll
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\log4net.dll
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.pdb
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.xml
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\bin\Debug\log4net.xml
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.csproj.AssemblyReference.cache
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.csproj.CoreCompileInputs.cache
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHe.D234CA60.Up2Date
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.dll
+D:\Trainees\TraineesApplication\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.pdb
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\MapperHelper.dll
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\MapperHelper.pdb
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.dll
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\log4net.dll
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.pdb
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.xml
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\log4net.xml
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.csproj.AssemblyReference.cache
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.csproj.CoreCompileInputs.cache
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\obj\Debug\MapperHe.D234CA60.Up2Date
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.dll
+D:\Trainees\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.pdb
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\MapperHelper.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\MapperHelper.pdb
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\log4net.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.pdb
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\AutoMapper.xml
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\bin\Debug\log4net.xml
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.csproj.AssemblyReference.cache
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.csproj.CoreCompileInputs.cache
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\obj\Debug\MapperHe.D234CA60.Up2Date
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\CommonLibraries\MapperHelper\obj\Debug\MapperHelper.pdb

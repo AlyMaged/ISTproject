@@ -1,0 +1,30 @@
+﻿using Newtonsoft.Json;
+using System;
+using System.ComponentModel.DataAnnotations;
+
+
+namespace Trainees.Models.ModelsDTO
+{
+    public partial class CFMSurveyReadDTO
+    {
+        public int ID { get; set; }
+        [Required]
+        public string Title { get; set; }
+        [Required]
+        public string Status { get; set; }
+        [Required]
+        public int CreatedBy { get; set; }
+        [Required]
+        public Nullable<System.DateTime> ModifiedAt { get; set; }
+        [Required]
+        public Nullable<int> ModifiedBy { get; set; }
+        [Required]
+        public string Type { get; set; }
+        [Required]
+        public string Language { get; set; }
+        [Required]
+        public Nullable<int> Responses { get; set; }
+        public string CreatedByUserName { get; set; }
+        public string ModifiedByUserName { get; set; }
+    }
+}

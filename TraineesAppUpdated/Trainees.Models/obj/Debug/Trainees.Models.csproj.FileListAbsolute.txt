@@ -1,0 +1,72 @@
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\Trainees.Models.dll.config
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\Trainees.Models.dll
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\Trainees.Models.pdb
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\AutoMapper.dll
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\EntityFramework.dll
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\log4net.dll
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\MapperHelper.dll
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\System.ValueTuple.dll
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\MapperHelper.pdb
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\AutoMapper.pdb
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\AutoMapper.xml
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\EntityFramework.xml
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\log4net.xml
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\Newtonsoft.Json.xml
+D:\Trainees\TraineesApplication\Trainees.Models\bin\Debug\System.ValueTuple.xml
+D:\Trainees\TraineesApplication\Trainees.Models\obj\Debug\Trainees.Models.csproj.AssemblyReference.cache
+D:\Trainees\TraineesApplication\Trainees.Models\obj\Debug\Trainees.Models.csproj.CoreCompileInputs.cache
+D:\Trainees\TraineesApplication\Trainees.Models\obj\Debug\Trainees.696FEF07.Up2Date
+D:\Trainees\TraineesApplication\Trainees.Models\obj\Debug\Trainees.Models.dll
+D:\Trainees\TraineesApplication\Trainees.Models\obj\Debug\Trainees.Models.pdb
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Trainees.Models.dll.config
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Trainees.Models.dll
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Trainees.Models.pdb
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\AutoMapper.dll
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\EntityFramework.dll
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\log4net.dll
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\MapperHelper.dll
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\System.ValueTuple.dll
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\MapperHelper.pdb
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\AutoMapper.pdb
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\AutoMapper.xml
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\EntityFramework.xml
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\log4net.xml
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Newtonsoft.Json.xml
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\System.ValueTuple.xml
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\obj\Debug\Trainees.Models.csproj.AssemblyReference.cache
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\obj\Debug\Trainees.Models.csproj.CoreCompileInputs.cache
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\obj\Debug\Trainees.696FEF07.Up2Date
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\obj\Debug\Trainees.Models.dll
+D:\Trainees\TraineesApplication - For Trainee\Trainees.Models\obj\Debug\Trainees.Models.pdb
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Trainees.Models.dll.config
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Trainees.Models.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Trainees.Models.pdb
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\AutoMapper.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\EntityFramework.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\log4net.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\MapperHelper.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Newtonsoft.Json.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\System.ValueTuple.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\MapperHelper.pdb
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\AutoMapper.pdb
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\AutoMapper.xml
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\EntityFramework.xml
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\log4net.xml
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\Newtonsoft.Json.xml
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\bin\Debug\System.ValueTuple.xml
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\obj\Debug\Trainees.Models.csproj.AssemblyReference.cache
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\obj\Debug\Trainees.Models.csproj.CoreCompileInputs.cache
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\obj\Debug\Trainees.696FEF07.Up2Date
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\obj\Debug\Trainees.Models.dll
+D:\WorkShop\TraineesApplication - For Trainee\TraineesApplication - For Trainee\Trainees.Models\obj\Debug\Trainees.Models.pdb
