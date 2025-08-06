@@ -1,0 +1,191 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  display: flex;
+}
+
+/* Dashboard Container */
+.dashboard-container {
+  display: flex;
+  width: 100%;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 220px;
+  background-color: #0071ce;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+/* Sidebar Header/Logo Area */
+.sidebar .logo {
+  font-size: 24px;
+  font-weight: bold;
+  width: 100%;
+  padding: 20px;
+  color: #0071ce;
+  background-color: white;
+}
+
+.sidebar .logo span {
+  color: #ffc400;
+}
+
+/* Sidebar Menu */
+.sidebar .menu {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.sidebar .menu li {
+  padding: 15px 20px;
+  cursor: pointer;
+  transition: background 0.3s;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.sidebar .menu li:hover,
+.sidebar .menu li.active {
+  background-color: #ffc400;
+  color: black;
+  font-weight: bold;
+}
+
+/* Main Content */
+.main-content {
+  margin-left: 220px;
+  padding: 20px;
+  flex-grow: 1;
+}
+
+/* Top Bar */
+.topbar {
+  display: flex;
+  justify-content: flex-end;
+  background-color: white;
+  padding: 15px 20px;
+  border-bottom: 1px solid #ddd;
+  font-weight: bold;
+}
+
+/* Content Area */
+.content-area {
+  background-color: white;
+  padding: 25px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.content-area h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: #333;
+}
+
+.content-area p {
+  color: #555;
+  font-size: 16px;
+}
+
+/* Survey Section Fixes */
+.survey-tabs {
+  margin-bottom: 15px;
+}
+
+.survey-tabs .tab {
+  background-color: #eee;
+  border: none;
+  padding: 8px 12px;
+  margin-right: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.survey-tabs .tab.active {
+  background-color: #0071ce;
+  color: white;
+  font-weight: bold;
+}
+
+.survey-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.survey-controls .search-input {
+  padding: 8px;
+  width: 50%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.survey-controls .create-survey {
+  background-color: #0071ce;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.survey-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.survey-table th,
+.survey-table td {
+  padding: 12px 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  vertical-align: top;
+}
+
+.survey-table th {
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+.survey-table td small {
+  display: block;
+  color: #777;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  color: white;
+}
+
+.status-badge.scheduled {
+  background-color: #ff9800;
+}
+
+.actions span {
+  margin-right: 8px;
+  cursor: pointer;
+}

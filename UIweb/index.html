@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login | HiveCFM</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="left-panel">
+  <img src="figures.png" alt="People Illustration" class="illustration" />
+  <h2>Observe, measure & analyze</h2>
+  <p>
+    Deliver accurate CX insights to all levels and all positions.<br>
+    Internal teams collaborate to improve customer experience.
+  </p>
+</div>
+
+    <div class="right-panel">
+      <div class="logo">hive<span>cfm</span></div>
+      <h1>LOGIN</h1>
+      <p class="subtitle">Please login with username & password to enter the portal</p>
+      
+      <form>
+        <label>Username</label>
+        <input type="text" placeholder="Enter your username" required />
+
+        <label>Password</label>
+        <input type="password" placeholder="Enter your password" required />
+        
+        <div class="remember">
+          <input type="checkbox" id="remember" />
+          <label for="remember">Remember my Username & Password</label>
+        </div>
+
+        <button type="submit">Enter</button>
+      </form>
+
+      <p class="create-account">
+        Don’t have an account? <a href="#">Create New Account</a>
+      </p>
+    </div>
+  </div>
+  <script>
+  const form = document.querySelector("form");
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault(); 
+
+    const username = form.elements[0].value;
+    const password = form.elements[1].value;
+    fetch("https://localhost:44363/API/User/Login", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        Email: username,
+        Password: password
+      })
+    })
+    .then(response => {
+      if (!response.ok) {
+        alert("Invalid username or password.");
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+  // Save username for later (in dashboard.html)
+  localStorage.setItem("username", username); 
+
+  // Redirect to the dashboard
+  window.location.href = "dashboard.html";
+})
+    .catch(error => {
+      console.error("Login failed:", error);
+    });
+
+     if (username === Email && Password === password) {
+       window.location.href = "dashboard.html";
+     } else {
+       alert("Invalid username or password.");
+     }
+  });
+</script>
+
+
+</body>
+</html>

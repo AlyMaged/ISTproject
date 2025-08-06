@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dashboard | HiveCFM</title>
+  <link rel="stylesheet" href="dashboard.css" />
+</head>
+<body>
+  <div class="dashboard-container">
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <div class="logo">hive<span>cfm</span></div>
+      <ul class="menu">
+        <li data-section="Survey">📋 Survey</li>
+        <li data-section="Contacts">👥 Contacts</li>
+        <li data-section="Themes">🎨 Themes</li>
+        <li data-section="Invitations">✉️ Invitations</li>
+        <li data-section="Library">📚 Library</li>
+        <li data-section="Action Cards">➕ Action cards</li>
+        <li data-section="Reports">📈 Reports</li>
+        <li data-section="Settings">⚙️ Settings</li>
+        <li data-section="Help">❓ Help</li>
+      </ul>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+      <div class="topbar">
+        <div id="welcome-message">Welcome, User</div>
+      </div>
+
+      <div class="content-area">
+        <h2 id="section-title">Surveys</h2>
+
+        <!-- Survey Table UI -->
+        <div class="survey-tabs">
+          <button class="tab active">All</button>
+          <button class="tab">Published</button>
+          <button class="tab">Draft</button>
+          <button class="tab">Archived</button>
+          <button class="tab">Scheduled</button>
+        </div>
+
+        <div class="survey-controls">
+          <input type="text" placeholder="Search..." class="search-input">
+          <button class="create-survey">+ Create new survey</button>
+        </div>
+
+        <table class="survey-table">
+          <thead>
+            <tr>
+              <th>Title</th>
+              <th>Status</th>
+              <th>Created by</th>
+              <th>Modified at</th>
+              <th>Modified by</th>
+              <th>Type</th>
+              <th>Language</th>
+              <th>Responses</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <strong>IST Survey - Email I have created</strong><br>
+                <small>Created at 06/10/2022</small>
+              </td>
+              <td>
+                <span class="status-badge scheduled">Scheduled</span><br>
+                <small>Expires at 20/10/2022</small><br>
+                <small>Publish at 06/10/2022</small>
+              </td>
+              <td>Basem Shawaly</td>
+              <td>06/10/2022</td>
+              <td>Nermien Emad</td>
+              <td>Web</td>
+              <td>English</td>
+              <td>153</td>
+              <td class="actions">
+                <span>📄</span>
+                <span>📤</span>
+                <span>👁️</span>
+                <span>✏️</span>
+                <span>🗑️</span>
+              </td>
+            </tr>
+            <!-- Add more rows as needed -->
+          </tbody>
+        </table>
+
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const username = localStorage.getItem("username") || "User";
+    document.getElementById("welcome-message").textContent = `Welcome, ${username}`;
+
+    const menuItems = document.querySelectorAll(".menu li");
+    const title = document.getElementById("section-title");
+
+    menuItems.forEach(item => {
+      item.addEventListener("click", () => {
+        menuItems.forEach(i => i.classList.remove("active"));
+        item.classList.add("active");
+
+        const section = item.getAttribute("data-section");
+        title.textContent = section;
+      });
+    });
+  </script>
+</body>
+</html>
